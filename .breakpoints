@@ -1,13 +1,5 @@
 {
   "files": {
-    "src/Howto.svelte": [
-      {
-        "id": "60ee3e08-c0cb-42a3-9bf0-35c4bdfc0fec",
-        "line": 49,
-        "version": 2966,
-        "index": 1462
-      }
-    ],
     "src/Review.svelte": [
       {
         "id": "4ae4575f-121c-40c7-9bd5-ec2465d9453b",
